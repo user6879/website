@@ -1,11 +1,5 @@
-# fresh project
+# website
 
-### Usage
+Personal Website of me.
 
-Start the project:
-
-```
-deno task start
-```
-
-This will watch the project directory and restart as necessary.
+> Front-end development is hard.
