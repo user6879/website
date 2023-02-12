@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <>
     <Head>
-      <title>Noname Portfolio.</title>
+      <title>user6879 Website</title>
     </Head>
     <div className="justify-items-center items-center bg-black font-mono  text-white h-screen flex flex-col justify-between text-center">
         <div class="">
