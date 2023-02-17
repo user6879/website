@@ -6,7 +6,6 @@ export default function Home() {
       <Head>
         <title>user6879 - Website</title>
         <meta name="description" content="15 years old developer from Russia" />
-        <link rel="shortcut icon" href="../static/favicon.ico" type="image/x-icon"/>
         <link rel="stylesheet" href="/globals.css" type="text/css" />
       </Head>
 
