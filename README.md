@@ -1,5 +1,3 @@
 # website
 
-Personal Website of me.
-
-> Front-end development is hard.
+Used [tapnisu/website](https://github.com/tapnisu/website)
